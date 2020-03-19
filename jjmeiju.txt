@@ -15,7 +15,7 @@ first_url_select=a
 first_url_select_attr=href
 logo_pre=none
 first_url_pre=none
-realurl_regex=var vkey='(http[^']+)
+realurl_regex=var vkey\s=\s'(http[^']+)
 second_flag=yes
 second_container_select=div.playlist
 second_items_select=a
